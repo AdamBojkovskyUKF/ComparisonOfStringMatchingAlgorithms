@@ -74,8 +74,6 @@ public class SO {
 		for (state = ~0, j = 0; j < n; ++j) {
 			++operations[1];
 			++operations[2];
-			++operations[4];
-			++operations[4];
 
 			++operations[2];
 			++operations[3];
